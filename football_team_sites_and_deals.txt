@@ -1,25 +1,39 @@
-#search for team name, in community section/fan zone of website
+#search for team name, in community section/fan zone of website and "team name" + Deals
 #twitter accounts have the information!
 
 # washington Redskins http://www.redskins.com/fan-zone/subway.html (home game + score 20+ points = free regular 6" sub with purchase of 30oz drink and bag of chips day after game. Any Subway in DC)
 
 #Arizona Cardinals https://twitter.com/AZCardinals (20+ points = $1.20 chicken sandwich at Phoenix area Burger Kings. Game Day and Day After)
 
-
 #Atlanta Falcons http://www.atlantafalcons.com/fan-experience/fan-promotions.html (Papa John's Pizza. Falcons win = 50% off regular menu price online orders the day after game. Promo code: FALCONSWIN. Valid in Atlanta and Macon)
 
+#Baltimore Ravens https://twitter.com/DunkinBaltimore and http://ow.ly/i/7qjx5 Ravens win = Dunkin Donuts Free medium hot or iced coffee. Day after game. Greater Baltimore Area. Must download DD App 
+#http://www.baltimoreravens.com/ravenstown/contests/papa-johns-ravens-offers.html Papa John's Pizza. Ravens win = 50% off regular menu price online orders the Monday after game. Promo code: RAVENS50. Valid in greater Baltimore area locations
 
-#Baltimore Ravens https://twitter.com/DunkinBaltimore and http://ow.ly/i/7qjx5 (Ravens win = Dunkin Donuts Free medium hot or iced coffee. Day after game. All Michigan. Must download DD App)
+#Buffalo Bills - no deals that I could find. except a free cookie 10/20 from Subway if they scored less than 20 points... not sure if this is a one-time deal or not.
 
-#Buffalo Bills 
-#Carolina Panthers 
-#Chicago Bears 
-#Cincinnati Bengals 
-#Cleveland Browns 
-#Dallas Cowboys 
-#Denver Broncos 
+#Carolina Panthers http://www.panthers.com/fanzone/promotions.html 
+#Krispy Kreme. The Monday after a Panthers victory, buy a dozen orginal glazed doughnuts for $3.99 at Krispy Kreme stores in North and South Carolina. Find a location near you. 
+#Papa John's. free pizza this season when the Panthers score 20 or more points. Go online to papajohns.com the next day and enter the promo code PANTHERS20. Buy a large or extra large pizza at regular menu price and get a second pizza of equal or lesser value free.
+#Red Robin. free tavern double burger and bottomless steak fries (with the purchase of an entree and two beverages) the Tuesday following any game the Panthers win.
 
-#Detroit Lions http://www.detroitlions.com/community/index.html (all games, Lions get 20 first downs = free regular 6" sub with purchase of 30oz drink and bag of chips. Game day and day after. Any Subway in MI). http://www.detroitlions.com/dunkin-donuts-lions-win-you-win.html (Lions win + Away Game = Dunkin Donuts Free medium hot or iced coffee. Day after game. All Michigan. Must download DD App)
+#Chicago Bears - no deals that I could find.
+
+#Cincinnati Bengals - no deals that I could find.
+
+#Cleveland Browns - no deals that I could find.
+
+#Dallas Cowboys - no deals that I could find. 
+
+#Denver Broncos - THEY HAVE A @BRONCOSPROMO TWITTER HANDLE!!!
+#http://www.denverbroncos.com/fans/index.html Broncos win = free cup of coffee at Conoco Gas stations. 12oz @ 6a-10a day after game.
+# http://www.denverbroncos.com/fans/contests.html Papa John's Pizza. Broncos win = 50% off regular menu price online orders the day after game. Promo code: BRONCOS. Valid in greater in Colorado?
+# http://springsbargains.com/2014/10/broncos-deals-at-jack-in-the-box-papa-johns-king-soopers-mcdonalds-and-arbys-are-on-for-monday/
+# http://www.milehighonthecheap.com/3-broncos-touchdowns-1-arbys-sandwich/ Arby's. Broncos score 3+ Touchdowns during regular season game = $1 classic RB. Day after game. Colorado
+
+
+#Detroit Lions http://www.detroitlions.com/community/index.html All games, Lions get 20 first downs = free regular 6" sub with purchase of 30oz drink and bag of chips. Game day and day after. Any Subway in MI. 
+#http://www.detroitlions.com/dunkin-donuts-lions-win-you-win.html Lions win + Away Game = Dunkin Donuts Free medium hot or iced coffee. Day after game. All Michigan. Must download DD App
 
 #Green Bay Packers 
 #Houston Texans 
